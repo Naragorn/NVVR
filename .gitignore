@@ -1,0 +1,29 @@
+# Build products
+/build/
+/dist/
+*.obj
+*.lib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.tlog/
+
+# Local installation and experiment artifacts
+/backups/
+*.log
+*.raw
+*.png
+*.jpg
+*.jpeg
+*.request
+
+# Local evidence and reverse-engineering captures
+/docs/evidence/
+
+# Historical private working notes are not part of the public source tree.
+/docs/*.md
+!/docs/README.md
+
+# Local reference snapshots and dependency archives are not build inputs.
+/vendor/
