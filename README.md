@@ -4,6 +4,8 @@ NVVR is an early proof of concept for seated, head-tracked VR in Fallout: New Ve
 
 This is an early development build for engineering research only. It is not intended for public use, distribution, or unsupervised play. Expect missing features, instability, and incompatible game or runtime setups.
 
+**Like it? Buy me a coffee on [Ko-fi](https://ko-fi.com/somadb).** (somadb is a different project I work on, but I confirm this Ko-fi link goes to me, the one who made NVVR.)
+
 ## Current scope
 
 - Automatic seated VR startup with head aiming.
